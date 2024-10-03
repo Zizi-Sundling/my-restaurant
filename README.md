@@ -1,2 +1,2 @@
 # my-restaurant
-FirstName LastName - Restaurant Project Website - HSE
+Zizi Sundling - Restaurant Project Website - HSE
